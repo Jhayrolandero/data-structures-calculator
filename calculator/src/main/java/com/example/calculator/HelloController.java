@@ -240,7 +240,7 @@ public class HelloController {
         // char lastChar = num.charAt(num.length() - 1);
         String lastChar = num.substring(num.length() - 1);
 
-        // Nag experiment ako ng onti since kailangan i adjust yung buong condition para // kasi consider siya 
+        // Nag experiment ako ng onti since kailangan i adjust yung buong condition para sa // kasi consider siya 
         // as string so uncomment mo nalang yung original logic pero gumagana yang string version maliban lang sa  % at //
 
         // if(lastChar == '.'){
